@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-am-JO
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...electronics
+- 🌱 I’m currently learning ...electronics and communication
 - 💞️ I’m looking to collaborate on ...nothing right now
 - 📫 How to reach me ...noway
 
